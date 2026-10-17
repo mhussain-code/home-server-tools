@@ -1,0 +1,18 @@
+# intro-detector
+ffmpeg-python
+openl3
+soundfile
+numpy
+scipy
+tqdm
+# mkv-to-mp4-watcher
+watchdog
+# renamer
+requests
+tabulate
+guessit
+tmdbv3api
+# pdf-tools
+PyPDF2
+pdf2docx
+EbookLib

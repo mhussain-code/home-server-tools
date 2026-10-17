@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+# media and outputs
+*.mkv
+*.mp4
+*.srt
+*.pdf
+*.epub
+*.docx
+detected_intros.csv
